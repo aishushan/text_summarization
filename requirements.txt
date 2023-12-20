@@ -5,3 +5,4 @@ nltk == 3.8.1
 PyMuPDF==1.23.8
 PyPDF2 == 2.11.1
 docx== 0.2.4
+sklearn== 0.0.post5
